@@ -1,0 +1,10 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.cointainer {
+  align-items: center;
+  margin-left: 200px;
+}
